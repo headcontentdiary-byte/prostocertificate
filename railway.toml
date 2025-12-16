@@ -3,8 +3,3 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "python bot.py"
-```
-
-**runtime.txt:**
-```
-python-3.11.0
